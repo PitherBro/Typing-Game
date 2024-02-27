@@ -10,3 +10,7 @@ Derived from a Bracky's Tutorial, Challenges the player to type as many words as
     - Hardeasy (7+ letter long words)    
     - Expert (a random selection of words from any of the previous difficulty)
 - earn lives as you successed in fending off the waves of words
+
+
+### Demo
+available under the `vid` [folder](./vid/)
